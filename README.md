@@ -1,5 +1,15 @@
-# Awesome-Graph4TruthLLM
+# Beyond Sequences: How Graph Learning Can Advance Trustworthy Large Language Models
 
+[Link to paper](paper.pdf)
+
+**You are welcome to open a PR to add related papers!**
+
+## Table of Contents
+- [1. Graph-Based Context Engineering](#graph-based-context-engineering)
+- [2. Graph Priors for LLM Architectures](#graph-priors-for-llm-architectures)
+- [3. Graph-Based Interpretability and Control](#graph-based-interpretability-and-control)
+- [4. Graph-Centric Trust and Safety](#graph-centric-trust-and-safety)
+- [Citation](#citation)
 
 ## Graph-Based Context Engineering
 
@@ -103,3 +113,14 @@
 - [SentinelAgent: Graph-Based Anomaly Detection in Multi-Agent Systems](https://arxiv.org/abs/2505.24201) - arXiv 2025
 - [GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling](https://arxiv.org/abs/2505.19234) - arXiv 2025
 - [Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/abs/2412.16339) - arXiv 2024
+
+## Citation
+
+```bash
+@misc{li2026beyond,
+  title={Beyond Sequences: How Graph Learning Can Advance Trustworthy Large Language Models},
+  author={Mufei Li and Shikun Liu and Xinnan Dai and Rongzhe Wei and Haoyu Wang and Xinjie Shen and Siqi Miao and Jiliang Tang and Pan Li},
+  howpublished = {https://github.com/Graph-COM/Awesome-Graph4TruthLLM},
+  year={2026}
+}
+```
